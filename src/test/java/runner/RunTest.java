@@ -7,6 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 (
     features="src/test/resources/Business_Logic",
       glue="mapping",
+      tags="@SmokeTest",
       plugin="pretty",
       monochrome=true
 
