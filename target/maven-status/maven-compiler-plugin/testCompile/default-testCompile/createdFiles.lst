@@ -1,0 +1,6 @@
+utility\SeleniumOperations.class
+mapping\Login.class
+trial\Demo.class
+runner\TestRun.class
+mapping\Hookable.class
+mapping\ConfigReader.class
